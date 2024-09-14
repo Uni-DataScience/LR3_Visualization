@@ -1,5 +1,7 @@
 # Sprint 11. Data Visualization and Exploration
 
+_In order to demonstrate the completed plots, upload the image of the results to the folder `plots'._
+
 ### **Task 1: Importance of Data Visualization in Data Science and Analytics**
 
 Demonstrate the importance of data visualization by creating a simple bar chart to represent the frequency of categorical data.
