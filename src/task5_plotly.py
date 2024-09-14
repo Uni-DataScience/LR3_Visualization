@@ -10,8 +10,7 @@ def create_interactive_plotly(df):
     Parameters:
     df (DataFrame): A DataFrame containing 'x' and 'y' columns.
     """
-    fig = px.scatter(df, x='x', y='y', title='Interactive Plotly Scatter Plot')
-    fig.show()
+    pass
     return fig
 
 
