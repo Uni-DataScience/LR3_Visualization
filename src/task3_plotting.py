@@ -4,23 +4,15 @@ from mpl_toolkits.mplot3d import Axes3D
 
 
 def plot_1d(data):
-    plt.plot(data)
-    plt.title('1D Plot')
-    plt.show()
+   pass
 
 
 def plot_2d(x, y):
-    plt.scatter(x, y)
-    plt.title('2D Scatter Plot')
-    plt.show()
+    pass
 
 
 def plot_3d(x, y, z):
-    fig = plt.figure()
-    ax = fig.add_subplot(111, projection='3d')
-    ax.scatter(x, y, z)
-    plt.title('3D Scatter Plot')
-    plt.show()
+    pass
 
 
 # Example data
